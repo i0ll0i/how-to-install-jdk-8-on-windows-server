@@ -8,6 +8,7 @@ To install Java 1.8 (JDK 8) visit the [official Oracle Java SE page](https://www
 ![](images/download-page.png)
 
 Once the download is complete, locate the `.exe` file and double-click it to launch the installer. The installer will guide you through the installation process. By default, the JDK will be installed in `C:\Program Files\Java\jdk1.8.x_xxx` directory.
+
 After installation, you’ll need to set up the necessary environment variables (`JAVA_HOME` and update `PATH`). To do this right-click on This PC and choose Properties. Then click `Advanced system settings`. In the `System Properties` window, go to the `Advanced` tab and click the `Environment Variables` button.
 
 ![](images/environment-variables.png)
